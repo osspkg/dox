@@ -1,0 +1,4 @@
+go.osspkg.com/random v0.3.1 h1:bD3lJUKnLk7DsmF86PsmgDy3K56BFoo5KbxiF4kx20o=
+go.osspkg.com/random v0.3.1/go.mod h1:6gWEblgbMt6EMIJG/KPz+YiLzvuxGtHj54TK4BeBzIE=
+golang.org/x/text v0.17.0 h1:XtiM5bkSOt+ewxlOE/aE/AKEHibwj/6gvWMl9Rsh0Qc=
+golang.org/x/text v0.17.0/go.mod h1:BuEKDfySbSR4drPmRPG/7iBdf8hvFMuRexcpahXilzY=
